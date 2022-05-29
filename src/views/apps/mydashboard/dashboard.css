@@ -1,0 +1,23 @@
+.c-card{
+    display: flex;
+    padding: 10px;
+}
+.c-body {
+display: flex;
+align-items: center;
+gap: 20px;
+}
+.c-head{
+display: flex;
+justify-content:center;
+align-items: center;
+flex-direction: column;
+text-align:right;
+}
+.c-head h1 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+.c-head p {
+    font-weight: bolder;
+}

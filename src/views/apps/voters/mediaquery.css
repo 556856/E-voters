@@ -1,0 +1,9 @@
+@media (max-width: 500px){
+    .mobile-res{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        gap: 10px;
+    }
+}
+  
